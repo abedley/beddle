@@ -4,9 +4,11 @@ https://abedley.github.io/beddle/
 
 ##### Export
 
-Copy results of `JSON.stringify(localStorage)`.
+On the OG site, copy results of `JSON.stringify(localStorage)`.
 
 ##### Import
+
+On this site:
 
 ```js
 const data = JSON.parse(/*paste stringified JSON from clipboard*/);
