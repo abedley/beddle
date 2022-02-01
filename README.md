@@ -1,1 +1,1 @@
-# wordle
+# beddle
